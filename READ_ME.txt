@@ -16,7 +16,8 @@ ex3 - Figure 5 (high dimensional / scaling example)
 
 Most are split into further subexamples for the individual figures. 
 To run the code for a particular example, simply download the 
-directory and run the driver file. The RNG seeds have been fixed 
+directory, navigate to the desired example in MATALB and
+run the driver file. The RNG seeds have been fixed 
 in each file to produce the exact image/results from the paper
 (in our experience, the results are not particularly sensitive
 to the random initialization, so these can be changed without
